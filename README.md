@@ -1,6 +1,6 @@
 ![imuse-screenshot](https://www.dropbox.com/s/u3s84jeespxlxqz/Screen%20Shot%202021-09-05%20at%207.39.17%20AM.jpg?raw=1)
 
-This app was made through a course taught by Edwin Simo:  https://developedbyed.com/p/the-creative-react-and-redux-course
+This app was made with the help of Edwin Simo, @developedbyed:  https://developedbyed.com/p/the-creative-react-and-redux-course
 
 # Getting Started with Create React App
 
